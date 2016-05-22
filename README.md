@@ -1,2 +1,2 @@
 # Netsens
-Arduino network sensors
+Arduino network sensors for using with MQTT
