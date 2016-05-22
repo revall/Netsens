@@ -89,6 +89,8 @@ bool drawFrame4(SSD1306 *display, SSD1306UiState* state, int x, int y) {
   display->setFont(ArialMT_Plain_10);
   display->drawStringMaxWidth(0 + x, 10 + y, 128, "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.");
   return false;
+
+
   
 }
 
